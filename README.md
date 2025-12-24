@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python,html,plsql,javascript,react**
 
-- 💬 Ask me about **python,javascript,sql,html**
+- 💬 Ask me about **python,javascript,sql,html,git,django**
 
 - 📫 How to reach me **uchihaitachi11329@gmail.com**
 
