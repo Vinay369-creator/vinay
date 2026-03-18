@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vinay</h1>
 <h3 align="center">A passionate python full stack developer</h3>
 
-- 🌱 I’m currently learning **python,html,plsql,javascript,react**
+- 🌱 I’m currently learning **python,plsql,Django,react**
 
 - 💬 Ask me about **python,javascript,sql,html,git,django**
 
